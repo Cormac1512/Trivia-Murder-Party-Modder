@@ -1,6 +1,7 @@
 ﻿using System.IO;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
 
 using TriviaMurderPartyModder.Data;
 
@@ -31,29 +32,29 @@ namespace TriviaMurderPartyModder.Files {
             }
         }
 
+        /// <summary>
+        /// Load all questions from a file and append them to the existing list of questions.
+        /// </summary>
         protected override void Add(string fileName) {
-            string contents = File.ReadAllText(fileName);
-            int position = 0;
-            while ((position = contents.IndexOf("\"x\"", position) + 3) != 2) {
-                int id = contents.IndexOf("\"id\"", position) + 4;
-                int text = contents.IndexOf("\"text\"", position) + 6;
-                int choices = contents.IndexOf("\"choices\"", position) + 9;
-                if (id == 3 || text == 5 || choices == 8)
-                    continue;
-                id = contents.IndexOf(':', id) + 1;
+            using JsonDocument source = JsonDocument.Parse(File.OpenRead(fileName));
+            var root = source.RootElement.GetProperty("content");
+            foreach (JsonElement question in root.EnumerateArray()) {
+                JsonElement id = question.GetProperty("id");
                 Question imported = new() {
-                    ID = int.Parse(contents[id..contents.IndexOf(',', id)].Trim()),
-                    Text = Parsing.GetTextEntry(ref contents, contents.IndexOf(':', text) + 1)
+                    ID = id.ValueKind == JsonValueKind.Number ? id.GetInt32() : int.Parse(id.GetString()),
+                    Text = question.GetProperty("text").GetString()
                 };
-                choices = contents.IndexOf('[', choices) + 1;
-                int correct = contents.IndexOf("\"correct\"", choices);
-                for (int answer = 1; answer <= 4; ++answer) {
-                    choices = contents.IndexOf('{', choices) + 1;
-                    if (choices <= correct)
+
+                JsonElement choicesArray = question.GetProperty("choices");
+                int answer = 0;
+                foreach (JsonElement choice in choicesArray.EnumerateArray()) {
+                    answer++;
+                    imported[answer] = choice.GetProperty("text").GetString();
+                    if (choice.TryGetProperty("correct", out JsonElement correct) && correct.GetBoolean()) {
                         imported.Correct = answer;
-                    imported[answer] = Parsing.GetTextEntry(ref contents, contents.IndexOf("\"text\"", choices) + 6);
-                    choices = contents.IndexOf('}', choices) + 1;
+                    }
                 }
+
                 Add(imported);
             }
         }
