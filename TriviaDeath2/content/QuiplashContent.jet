@@ -1,0 +1,771 @@
+{
+ "content": [
+  {
+   "id": "55670",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The best family business to inherit",
+   "response": null,
+   "safetyQuips": [],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "55671",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]A better name for ghosts",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55672",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The one thing my stay at this hotel lacked was <BLANK>",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55689",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The perfect name for a hotel run by the undead",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55690",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The most bizarre use for an ice bucket",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55691",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The social situation that’s more painful than torture",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55692",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]A clear sign that your bed is cursed",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55693",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The worst bed shape for the Honeymoon Suite",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55694",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]A realization you have in the hotel hot tub",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55697",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]I love when the minibar is stocked with <BLANK>",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55730",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The name of the next great video game sequel",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55731",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Forget ghosts and vampires! It turns out the real monster is...",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55732",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]A sure sign you don’t want to touch the complimentary breakfast buffet",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55733",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]A more effective sign than “Do Not Disturb”",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55737",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The one defense that a jury always believes",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55779",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The title of an autobiography by a horse",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55780",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The disturbing flip side of a “Do Not Disturb” sign",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55782",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Nobody has ever ordered this from room service",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55783",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Forget mints! This is what you wish was left on your pillow...",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55926",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]A better name for a Honeymoon Suite",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55927",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]What a game show host would have on their tombstone",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55928",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The most alarming thing to read in an online review of a hotel",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55929",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]A good name for a family restaurant owned by cannibal",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55930",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Help! I’ve been trapped! How can I escape this hotel room?!",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55931",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The coolest thing a funeral home could do with your remains",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55932",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Why do Grandma and Grandpa never want to talk about the noise coming from the basement?",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55934",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The best part of inviting a ghost to your birthday party",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55941",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]These can be worn as shoes, in a pinch",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55942",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The oldest parrot in the world died clutching this",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55943",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]This exciting new sauce combines white wine, green salsa, and <BLANK>",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55944",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The hardest part about being immortal",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55945",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The worst thing to hear emanating from your closet",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "55946",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The most discouraging advice to give to a teen",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56003",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The recurring nightmare that dolphins have",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56004",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]When a flock of crows lands on your bed, it means...",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56025",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]They painted over this on the Sistine Chapel because it was too spooky",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56026",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Don’t stick this in a pencil sharpener",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56027",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]A crushing realization you have at The Container Store",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56036",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The one thing that should never be crispy",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56037",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Why puppets are “cancelled”",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56038",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The worst flavor of sparkling water",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56039",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]How to be a hotshot farmer",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56040",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]In my day, they made deodorant out of...",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56058",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The best alibi during a murder mystery dinner",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56059",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]If the bellboy holds out their hand, they don’t want a tip... they really want <BLANK>",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56061",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]When I was a child, a witch cursed me with infinite <BLANK>",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56062",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The name of the car brand that runs on the screams of the damned",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56068",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Don’t talk to me until I’ve had my <BLANK>",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56070",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The one thing that always gets me out of a jam",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56071",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]A good substitute for human contact",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56072",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]ABC.  Always Be <BLANK>.",
+   "response": null,
+   "safetyQuips": [],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "56073",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Worst thing to find inside your in-room coffee maker",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56126",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]A crazy prompt to get asked during a game of Quiplash, maybe?",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56127",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]A nice gift to give to a murderer",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56499",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Worst thing about being raised by a family of serial killers that runs a hotel where they secretly murder the guests",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56522",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]If I should die before I wake, I pray the Lord my <BLANK> to take\n",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56523",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]What the raven in that Edgar Allen Poe poem SHOULD have said\n",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56524",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The spookiest noise for a doorbell to make\n",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56528",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The ribcage that would make the best bone xylophone\n",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56530",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]One of the five people you would meet... IN HELL!",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56531",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]There’s nothing better to drink before bed than a nice warm glass of <BLANK>",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56532",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The best excuse to give a boss when calling in sick to work\n",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56533",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The one place you would hang one of those spooky paintings with eye holes you can spy through",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56534",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The least intimidating name for a motorcycle gang",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56535",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]In my garage, I have hundreds of jars filled to the brim with <BLANK>\n",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56536",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Something wholesome that could be found buried underneath the floorboards",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56537",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]In the 1800s, singles used this instead of dating apps to find each other",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56539",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]When treating a cut, apply direct pressure on the wound with <BLANK> until bleeding stops.\n",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56540",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]This, under no circumstances, should ever be used as a topping for pizza\n",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56541",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The proper spelling for an evil laugh\n",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56542",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Best name for an all skeleton jazz band",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56543",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The best name for a 1970s TV show about a curmudgeonly detective who solves crimes with help from a wisecracking teenage werewolf",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56544",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]An unacceptable replacement for cheese on nachos.\n",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56546",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Least appealing name for a brand of toilet paper\n",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56547",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]People who have had near death experiences report seeing <BLANK> at the end of a tunnel",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56548",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]The reason cats lick themselves all day\n",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56549",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Most appropriate beverage to drink out of a goblet made from a human skull\n",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56550",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Sexiest arts and crafts project for a ghost and a human to complete together",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56551",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Hot take alert! All dogs are boys and all cats are <BLANK>.",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56552",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]If you reincarnated into this, you’d know you were being punished",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56553",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Do not stare directly into <BLANK>",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56554",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Like they say in the song: “He’s killing me softly with his <BLANK>.”",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56556",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]Why do bad things happen to good people?",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56557",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]If you bought a grocery cart full of this, the cashier would definitely call the cops on you",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  },
+  {
+   "id": "56569",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[EventName=HOST/AltHost]A joke you’ve made in Quiplash that’s gone woefuly underappreciated",
+   "response": null,
+   "safetyQuips": [],
+   "x": false
+  }
+ ]
+}

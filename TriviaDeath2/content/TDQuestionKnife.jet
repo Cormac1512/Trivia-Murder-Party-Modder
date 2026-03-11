@@ -1,0 +1,517 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "turtle"
+    },
+    {
+     "correct": false,
+     "text": "eel"
+    },
+    {
+     "correct": true,
+     "text": "crab"
+    },
+    {
+     "correct": false,
+     "text": "snake"
+    }
+   ],
+   "id": "55856",
+   "introAudio": "[EventName=HOST/AltHost]The only thing we know about the killer is that they know NOTHING about animal taxonomy. So tell me...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Which of these creatures is an invertebrate?",
+   "text": "[EventName=HOST/AltHost]Which of these creatures is an invertebrate?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "hammerbeam roofs in enormous halls"
+    },
+    {
+     "correct": true,
+     "text": "highly elaborate, substantial ornamentation"
+    },
+    {
+     "correct": false,
+     "text": "Neoclassical free-standing columns"
+    },
+    {
+     "correct": false,
+     "text": "emphasis on clean lines and symmetry"
+    }
+   ],
+   "id": "55857",
+   "introAudio": "[EventName=HOST/AltHost]The one things we know for sure about the killer is they know NOTHING about 18th century European architecture. So tell me...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]How would you characterize Rococo architecture?",
+   "text": "[EventName=HOST/AltHost]How would you characterize Rococo architecture?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "“a holy place”"
+    },
+    {
+     "correct": false,
+     "text": "“a humble place”"
+    },
+    {
+     "correct": true,
+     "text": "“a hopeless place”"
+    },
+    {
+     "correct": false,
+     "text": "“a haunted place”"
+    }
+   ],
+   "id": "55862",
+   "introAudio": "[EventName=HOST/AltHost]Our crime lab ran tests and found there is no way the killer knows the lyrics to Rihanna songs....",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]So prove you’re innocent and tell me where Calvin Harris and Rihanna found love in “We Found Love.”",
+   "text": "[EventName=HOST/AltHost]So prove you’re innocent and tell me where Calvin Harris and Rihanna found love in “We Found Love”?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "merlot"
+    },
+    {
+     "correct": true,
+     "text": "mourvedre"
+    },
+    {
+     "correct": false,
+     "text": "malbec"
+    },
+    {
+     "correct": false,
+     "text": "cabernet sauvignon"
+    }
+   ],
+   "id": "55864",
+   "introAudio": "[EventName=HOST/AltHost]According to our police psychic... the killer only drinks light red wines... so if you want to clear your name just tell me...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Which of these wines is traditionally the boldest and darkest?",
+   "text": "[EventName=HOST/AltHost]Which of these wines is traditionally the boldest and darkest?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Europe"
+    },
+    {
+     "correct": false,
+     "text": "Africa"
+    },
+    {
+     "correct": true,
+     "text": "South America"
+    },
+    {
+     "correct": false,
+     "text": "North America"
+    }
+   ],
+   "id": "55900",
+   "introAudio": "[EventName=HOST/AltHost]According to our DNA tests, the killer knows NOTHING about plant domestication. So if you’re so innocent, tell me...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]On which continent did the potato originate?",
+   "text": "[EventName=HOST/AltHost]On which continent did the potato originate?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]The Golden Compass[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Subtle Knife[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]The Hickory Rope[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Amber Spyglass[/i]"
+    }
+   ],
+   "id": "55901",
+   "introAudio": "[EventName=HOST/AltHost]According to our criminal profilers the killer avoids Young Adult Fiction because it makes them feel lonely. So... tell me...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Which of these is NOT part of the [i]His Dark Materials[/i] trilogy?",
+   "text": "[EventName=HOST/AltHost]Which of these is NOT part of the [i]His Dark Materials[/i] trilogy?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Cat Stevens"
+    },
+    {
+     "correct": true,
+     "text": "Joni Mitchell"
+    },
+    {
+     "correct": false,
+     "text": "Joan Baez"
+    },
+    {
+     "correct": false,
+     "text": "Alanis Morissette"
+    }
+   ],
+   "id": "55904",
+   "introAudio": "[EventName=HOST/AltHost]According to the FBI the killer is completely ignorant when it comes to folk royalty of the 1970s. So answer this question if you’re so innocent...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Who wrote the songs “Big Yellow Taxi” and “River”?",
+   "text": "[EventName=HOST/AltHost]Who wrote the songs “Big Yellow Taxi” and “River”?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "“Hip Hop Hollywood”"
+    },
+    {
+     "correct": true,
+     "text": "“Hip Hop Hooray”"
+    },
+    {
+     "correct": false,
+     "text": "“Hip Hop Holiday”"
+    },
+    {
+     "correct": false,
+     "text": "“Hippity Hip Hop”"
+    }
+   ],
+   "id": "55914",
+   "introAudio": "[EventName=HOST/AltHost]According to our evidence, we know that the real killer is NOT down with O.P.P...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]So you can clear your name if you can just tell me which one of these is a Naughty by Nature song.",
+   "text": "[EventName=HOST/AltHost]So you can clear your name if you can just tell me which one of these is a Naughty by Nature song.",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Viola Davis"
+    },
+    {
+     "correct": false,
+     "text": "Danai Gurira"
+    },
+    {
+     "correct": false,
+     "text": "Sonequa Martin-Green"
+    },
+    {
+     "correct": true,
+     "text": "Lupita Nyong’o"
+    }
+   ],
+   "id": "55915",
+   "introAudio": "[EventName=HOST/AltHost]I’ve been chasing this maniac for years and the one thing I know is they don’t like modern horror movies because they find them too scary... so...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]I’ll let you go if you can tell me who starred in Jordan Peele’s [i]Us[/i].",
+   "text": "[EventName=HOST/AltHost]I’ll let you go if you can tell me who starred in Jordan Peele’s [i]Us[/i].",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Pablo Picasso"
+    },
+    {
+     "correct": false,
+     "text": "Frida Kahlo"
+    },
+    {
+     "correct": true,
+     "text": "Claude Monet"
+    },
+    {
+     "correct": false,
+     "text": "Grandma Moses"
+    }
+   ],
+   "id": "55916",
+   "introAudio": "[EventName=HOST/AltHost]According to my research, the killer never finished their art history degree.... so tell me... “innocent bystander”... ",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Which artist had a penchant for painting water lilies?",
+   "text": "[EventName=HOST/AltHost]Which artist had a penchant for painting water lilies?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "“That which does not kill me makes me stronger.”"
+    },
+    {
+     "correct": false,
+     "text": "“The unexamined life is not worth living.”"
+    },
+    {
+     "correct": true,
+     "text": "“I think, therefore I am.”"
+    },
+    {
+     "correct": false,
+     "text": "“How can mirrors be real if our eyes aren’t real?”"
+    }
+   ],
+   "id": "55918",
+   "introAudio": "[EventName=HOST/AltHost]According to witness testimony, the real killer finds French philosophy gauche... so...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]To prove you’re innocent, just tell me which quote is attributed to René Descartes.",
+   "text": "[EventName=HOST/AltHost]To prove you’re innocent, just tell me which quote is attributed to René Descartes.",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]The Crown[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Tick[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The OA[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]The Handmaid’s Tale[/i]"
+    }
+   ],
+   "id": "55920",
+   "introAudio": "[EventName=HOST/AltHost]We’ve seen the killer’s bank account, we know they can’t afford streaming services.... ",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]So I’ll let you go if you can identify which of these shows is a Hulu original series!",
+   "text": "[EventName=HOST/AltHost]So I’ll let you go if you can identify which of these shows is a Hulu original series!",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "what’s your location"
+    },
+    {
+     "correct": false,
+     "text": "stand by"
+    },
+    {
+     "correct": false,
+     "text": "please repeat"
+    },
+    {
+     "correct": true,
+     "text": "message received"
+    }
+   ],
+   "id": "55956",
+   "introAudio": "[EventName=HOST/AltHost]According to my records, the killer has zero knowledge of trucker CB radio code.  So tell me...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]What does “10-4” mean?",
+   "text": "[EventName=HOST/AltHost]What does “10-4” mean?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "The Spiders from Mars"
+    },
+    {
+     "correct": false,
+     "text": "Ground Control"
+    },
+    {
+     "correct": false,
+     "text": "Space Jam"
+    },
+    {
+     "correct": false,
+     "text": "The Fires of Venus"
+    }
+   ],
+   "id": "55959",
+   "introAudio": "[EventName=HOST/AltHost]According to INTERPOL, the killer knows absolutely nothing about the singer David Bowie, so I’d love to see if you know...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]What is the name of the fictional band that played with Ziggy Stardust?",
+   "text": "[EventName=HOST/AltHost]What is the name of the fictional band that played with Ziggy Stardust?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "they are not actually brothers"
+    },
+    {
+     "correct": false,
+     "text": "they were born 10 months apart"
+    },
+    {
+     "correct": false,
+     "text": "they are fraternal twins"
+    },
+    {
+     "correct": true,
+     "text": "they are identical twins"
+    }
+   ],
+   "id": "56020",
+   "introAudio": "[EventName=HOST/AltHost]According to the killer’s profile, they never watch HGTV, so they would never know the answer to this question. Do you?",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]What’s the deal with the [i]Property Brothers[/i]?",
+   "text": "[EventName=HOST/AltHost]What’s the deal with the [i]Property Brothers[/i]?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "he is laid to rest at a recycling facility"
+    },
+    {
+     "correct": false,
+     "text": "he appears in a commercial for cinnamon breakfast pastry"
+    },
+    {
+     "correct": false,
+     "text": "he is donated to an old folks’ home"
+    },
+    {
+     "correct": true,
+     "text": "he goes to college with his owner"
+    }
+   ],
+   "id": "56022",
+   "introAudio": "[EventName=HOST/AltHost]According to my own research, the killer has never seen the animated feature The Brave Little Toaster. So let me ask you... ",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]What happens to the titular Toaster at the end of [i]The Brave Little Toaster[/i]?",
+   "text": "[EventName=HOST/AltHost]What happens to the titular Toaster at the end of [i]The Brave Little Toaster[/i]?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Geronimo"
+    },
+    {
+     "correct": false,
+     "text": "Giuseppe"
+    },
+    {
+     "correct": true,
+     "text": "Geppetto"
+    },
+    {
+     "correct": false,
+     "text": "Jiminy Cricket"
+    }
+   ],
+   "id": "56041",
+   "introAudio": "[EventName=HOST/AltHost]If we know one thing about the killer, it’s that they have a violent aversion to puppets. So they would never be able to answer this question... ",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]What’s the name of Pinocchio’s father?",
+   "text": "[EventName=HOST/AltHost]What’s the name of Pinocchio’s father?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Asia"
+    },
+    {
+     "correct": false,
+     "text": "Africa"
+    },
+    {
+     "correct": false,
+     "text": "Australia"
+    },
+    {
+     "correct": true,
+     "text": "Antarctica"
+    }
+   ],
+   "id": "56069",
+   "introAudio": "[EventName=HOST/AltHost]The FBI research shows the killer thrives in lush, tropical environments and avoids all deserts... so...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]I’ll know you’re not the killer if you can tell me which continent contains the largest desert.",
+   "text": "[EventName=HOST/AltHost]I’ll know you’re not the killer if you can tell me which continent contains the largest desert.",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Worcestershire sauce"
+    },
+    {
+     "correct": false,
+     "text": "garlic"
+    },
+    {
+     "correct": false,
+     "text": "anchovy"
+    },
+    {
+     "correct": true,
+     "text": "sugar"
+    }
+   ],
+   "id": "56078",
+   "introAudio": "[EventName=HOST/AltHost]According to data collected at the crime scene, the killer only uses RANCH dressing on their salads.... so tell me... ",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Which of these is NOT a traditional ingredient in Caesar dressing?",
+   "text": "[EventName=HOST/AltHost]Which of these is NOT a traditional ingredient in Caesar dressing?",
+   "us": false,
+   "x": false
+  }
+ ]
+}

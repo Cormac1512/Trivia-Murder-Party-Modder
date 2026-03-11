@@ -1,0 +1,45 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasJokeAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Keywords"
+  },
+  {
+   "t": "A",
+   "v": "response",
+   "n": "KeywordResponseAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "KeywordResponseText"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "[EventName=HOST/AltHost]A crushing realization you have at The Container Store"
+  },
+  {
+   "t": "S",
+   "v": "[EventName=HOST/AltHost]A crushing realization you have at The Container Store",
+   "n": "PromptText"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "SafetyQuips"
+  }
+ ]
+}

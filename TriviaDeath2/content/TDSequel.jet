@@ -1,0 +1,381 @@
+{
+ "content": [
+  {
+   "generationJump": 0,
+   "id": "101387",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Five Years Later",
+    "sub": "sub"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101388",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "Dr.",
+   "tag": "DOC",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "One Year Later",
+    "sub": "(during a medical convention booked at the hotel)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101389",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "Not",
+   "tag": "NOT",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Nineteen Years Later",
+    "sub": "(completely different guests are assembled)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101390",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "AM",
+   "text": {
+    "lowerThird": "3:01 a.m.",
+    "main": "main",
+    "sub": "sub"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101391",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Seven Years Later",
+    "sub": "(really it’s closer to six and a half but it’s rounded up)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101392",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Ten Years Later",
+    "sub": "sub"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101393",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Twenty Years Later",
+    "sub": "sub"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101394",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Fifteen Years Later",
+    "sub": "sub"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101395",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Five Years Later",
+    "sub": "(but it totally feels like six years)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101396",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Eight Years Later",
+    "sub": "(more or less)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101397",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Twelve Years Later",
+    "sub": "(give or take a day)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101398",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Some Time Passes",
+    "sub": "(no one kept track of how much)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101399",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Twenty Years Later",
+    "sub": "but much much earlier in the day"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101400",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Five Years Later",
+    "sub": "but not on the exact same day"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101401",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Next Friday",
+    "sub": "but not the movie <i>Next Friday</i>"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101402",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "MONDAY",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "The Following Monday",
+    "sub": "but it feels like a Wednesday"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101403",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Some Time Later",
+    "sub": "don’t worry about specifics"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101404",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Some Time Later",
+    "sub": "it’s not important to know exactly how long, okay?!"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101405",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "The Next Day",
+    "sub": "but the vibe is way different"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101406",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "24 Hours Later",
+    "sub": "sub"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101407",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "One Fortnight Later",
+    "sub": "... but not THAT Fortnite"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101408",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "47 Months Later",
+    "sub": "sub"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101409",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "On the Next Full Moon",
+    "sub": "(spooky, right?!)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101410",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "CHRISTMAS",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Seven Christmases Later",
+    "sub": "sub"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101411",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "SIMPLE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "2,709 Days Later",
+    "sub": "sub"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101412",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "AKA",
+   "tag": "AKA",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Twenty Years Later",
+    "sub": "(most of that time spent in hiding)"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101413",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "Capt",
+   "tag": "CAPT",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Fifteen Years Later",
+    "sub": "(a sea captain convention is in town)"
+   }
+  },
+  {
+   "generationJump": 13,
+   "id": "101414",
+   "minSequel": 2,
+   "nameModifier": null,
+   "playerNamePrefix": "",
+   "tag": "FUTURE",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "300 Years Later",
+    "sub": "sub"
+   }
+  },
+  {
+   "generationJump": 0,
+   "id": "101415",
+   "minSequel": 2,
+   "nameModifier": "REVERSE",
+   "playerNamePrefix": "",
+   "tag": "ALT",
+   "text": {
+    "lowerThird": "lowerThird",
+    "main": "Thirty Years Later",
+    "sub": "(in an alternate dimension similar to our own)"
+   }
+  }
+ ]
+}

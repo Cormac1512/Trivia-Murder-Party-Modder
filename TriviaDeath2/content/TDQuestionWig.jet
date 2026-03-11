@@ -1,0 +1,463 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Hey Jude[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Let It Be[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Imagine[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]All My Loving[/i]"
+    }
+   ],
+   "id": "55325",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "What’s the first song the Beatles ever played on [i]The Ed Sullivan Show[/i]?",
+   "text": "What’s the first song the Beatles ever played on [i]The Ed Sullivan Show[/i]?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Colonial Williamsburg"
+    },
+    {
+     "correct": false,
+     "text": "the first Walmart"
+    },
+    {
+     "correct": true,
+     "text": "Dollywood"
+    },
+    {
+     "correct": false,
+     "text": "Ferrari World"
+    }
+   ],
+   "id": "55326",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "Where did you take me in Tennessee that one time, Mother?",
+   "text": "Where did you take me in Tennessee that one time, Mother?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Dumbo[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Sleeping Beauty[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Lady and the Tramp[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]101 Dalmatians[/i]"
+    }
+   ],
+   "id": "55329",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "You once told me that you only cried once in your life... in 1941 seeing a newly released Disney cartoon in the theater. What was that movie, Mother?",
+   "text": "You once told me that you only cried once in your life... in 1941 seeing a newly released Disney cartoon in the theater. What was that movie, Mother?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "a dive bar"
+    },
+    {
+     "correct": false,
+     "text": "a baseball stadium"
+    },
+    {
+     "correct": true,
+     "text": "a drive-in theater"
+    },
+    {
+     "correct": false,
+     "text": "a cheap motel"
+    }
+   ],
+   "id": "55330",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "Mother, you used to stalk your victims at a “Passion Pit” which was common 1950’s slang for which establishment?",
+   "text": "Mother, you used to stalk your victims at a “Passion Pit” which was common 1950’s slang for which establishment?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Wendy’s"
+    },
+    {
+     "correct": true,
+     "text": "KFC"
+    },
+    {
+     "correct": false,
+     "text": "Arby’s"
+    },
+    {
+     "correct": false,
+     "text": "Subway"
+    }
+   ],
+   "id": "55346",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "In 1962, what did you feed my older brother instead of baby food?",
+   "text": "In 1962, what did you feed my older brother instead of baby food?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "The Los Angeles Lakers"
+    },
+    {
+     "correct": false,
+     "text": "The Las Vegas Lakers"
+    },
+    {
+     "correct": true,
+     "text": "The Minneapolis Lakers"
+    },
+    {
+     "correct": false,
+     "text": "The Toronto Lakers"
+    }
+   ],
+   "id": "55347",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "Tell me Mother... in 1955, you were a very intense cheerleader for which NBA team?",
+   "text": "Tell me Mother... in 1955, you were a very intense cheerleader for which NBA team?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]What To Expect When You’re Expecting[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]The Common Sense Book of Baby and Child Care[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Happiest Baby on the Block[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Attachment Parenting Book[/i]"
+    }
+   ],
+   "id": "55362",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "Mother, which famous book by Dr. Benjamin Spock did you receive as a gift when I was born, but then never read?",
+   "text": "Mother, which famous book by Dr. Benjamin Spock did you receive as a gift when I was born, but then never read?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]The Exorcist[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Shining[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Fly[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Thing[/i]"
+    }
+   ],
+   "id": "55375",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "You threw a high heel at the TV, Mother, when what movie was robbed of the 1974 Oscar for Best Picture?",
+   "text": "You threw a high heel at the TV, Mother, when what movie was robbed of the 1974 Oscar for Best Picture?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Neil Armstrong"
+    },
+    {
+     "correct": false,
+     "text": "John Glenn"
+    },
+    {
+     "correct": true,
+     "text": "Yuri A. Gagarin"
+    },
+    {
+     "correct": false,
+     "text": "Valentina Vladimirovna Tereshkova"
+    }
+   ],
+   "id": "55437",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "One night in 1961, you pointed to the sky and said my real dad was orbiting the Earth. This would mean my father was whom?",
+   "text": "One night in 1961, you pointed to the sky and said my real dad was orbiting the Earth. This would mean my father was whom?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "“I was pretending to be a medical doctor!”"
+    },
+    {
+     "correct": true,
+     "text": "“I was pretending to be a dentist!”"
+    },
+    {
+     "correct": false,
+     "text": "“I was pretending to be a psychiatrist!”"
+    },
+    {
+     "correct": false,
+     "text": "“I was pretending to be an honorary doctor!”"
+    }
+   ],
+   "id": "55445",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "You used to make me call you Dr. Mother DDS! What does that even mean?!",
+   "text": "You used to make me call you Dr. Mother DDS! What does that even mean?!",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "The Queen of Spades"
+    },
+    {
+     "correct": false,
+     "text": "The Queen of Diamonds"
+    },
+    {
+     "correct": false,
+     "text": "The Queen of Clubs"
+    },
+    {
+     "correct": true,
+     "text": "The Queen of Hearts"
+    }
+   ],
+   "id": "55475",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "At bedtime, you would laugh hysterically every time you read about which [i]Alice’s Adventures in Wonderland[/i] character calling for a decapitation?",
+   "text": "At bedtime, you would laugh hysterically every time you read about which [i]Alice’s Adventures in Wonderland[/i] character calling for a decapitation?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "$1"
+    },
+    {
+     "correct": false,
+     "text": "$0.65"
+    },
+    {
+     "correct": false,
+     "text": "$0.35"
+    },
+    {
+     "correct": true,
+     "text": "$0.15"
+    }
+   ],
+   "id": "55477",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "How much did it cost to buy a hamburger when you went to the first McDonald’s franchise in 1955?",
+   "text": "How much did it cost to buy a hamburger when you went to the first McDonald’s franchise in 1955?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Spitzmaus"
+    },
+    {
+     "correct": false,
+     "text": "Giftschlange"
+    },
+    {
+     "correct": false,
+     "text": "Kamel"
+    },
+    {
+     "correct": false,
+     "text": "Pferd"
+    }
+   ],
+   "id": "55588",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "What did you call me as a baby? You know, the German word for “shrew”?",
+   "text": "What did you call me as a baby? You know, the German word for “shrew”?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "buried in a grand piano"
+    },
+    {
+     "correct": false,
+     "text": "buried in a cello"
+    },
+    {
+     "correct": false,
+     "text": "buried in a harpsichord"
+    },
+    {
+     "correct": true,
+     "text": "buried in a regular coffin"
+    }
+   ],
+   "id": "55589",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "How have you stipulated you want to be buried so you can be “just like Beethoven”?",
+   "text": "How have you stipulated you want to be buried so you can be “just like Beethoven”?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "a circle"
+    },
+    {
+     "correct": false,
+     "text": "a triangle"
+    },
+    {
+     "correct": true,
+     "text": "a star"
+    },
+    {
+     "correct": false,
+     "text": "the shape of China"
+    }
+   ],
+   "id": "56043",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "Mommy, what is the shape of the Chinese Checkers game we used to play when the fog rolled in?",
+   "text": "Mommy, what is the shape of the Chinese Checkers game we used to play when the fog rolled in?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Audrey Hepburn"
+    },
+    {
+     "correct": false,
+     "text": "Vivien Leigh"
+    },
+    {
+     "correct": true,
+     "text": "Joan Crawford"
+    },
+    {
+     "correct": false,
+     "text": "Lauren Bacall"
+    }
+   ],
+   "id": "56046",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "Mother, you once told me you screamed at the dry cleaner for using wire hangers because of what iconic movie star?",
+   "text": "Mother, you once told me you screamed at the dry cleaner for using wire hangers because of what iconic movie star?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Gilmore Girls[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Designing Women[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Good Girls[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Grace & Frankie[/i]"
+    }
+   ],
+   "id": "56084",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "You always compared us to the classic mother-child duo from Stars Hollow. Which show were they on again, Mother?",
+   "text": "You always compared us to the classic mother-child duo from Stars Hollow. Which show were they on again, Mother?",
+   "us": true,
+   "x": false
+  }
+ ]
+}

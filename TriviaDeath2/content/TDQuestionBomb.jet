@@ -1,0 +1,438 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "yellow"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blue"
+    },
+    {
+     "controllerClass": "green",
+     "correct": true,
+     "text": "green"
+    },
+    {
+     "controllerClass": "white",
+     "correct": false,
+     "text": "white"
+    }
+   ],
+   "id": "55351",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]The instructions say, “Cut the VERDANT wire!” I have no idea what verdant means... sorry...",
+   "text": "[EventName=HOST/AltHost]The instructions say, “Cut the VERDANT wire!”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "yellow"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blue"
+    },
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "red"
+    },
+    {
+     "controllerClass": "green",
+     "correct": true,
+     "text": "green"
+    }
+   ],
+   "id": "55457",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]It says, “Cut the wire that is a primary color of light but not pigment.” Does that mean anything to you?",
+   "text": "[EventName=HOST/AltHost]It says, “Cut the wire that is a primary color of light but not pigment.”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "red"
+    },
+    {
+     "controllerClass": "orange",
+     "correct": false,
+     "text": "orange"
+    },
+    {
+     "controllerClass": "green",
+     "correct": true,
+     "text": "green"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blue"
+    }
+   ],
+   "id": "55745",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]It says “couper le fil vert.”",
+   "text": "[EventName=HOST/AltHost]It says “couper le fil vert.”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "yellow"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "green"
+    },
+    {
+     "controllerClass": "white",
+     "correct": false,
+     "text": "white"
+    },
+    {
+     "controllerClass": "purple",
+     "correct": true,
+     "text": "purple"
+    }
+   ],
+   "id": "55827",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]It says, “Cut the wire that’s the same approximate color as ‘smoky wisteria’ in the J.Crew catalog.”",
+   "text": "[EventName=HOST/AltHost]It says, “Cut the wire that’s the same approximate color as ‘smoky wisteria’ in the J.Crew catalog.”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "yellow"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blue"
+    },
+    {
+     "controllerClass": "red",
+     "correct": true,
+     "text": "red"
+    },
+    {
+     "controllerClass": "white",
+     "correct": false,
+     "text": "white"
+    }
+   ],
+   "id": "55875",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]It says, “Cut the wire that matches the color brides traditionally wear in China.”",
+   "text": "[EventName=HOST/AltHost]It says, “Cut the wire that matches the color brides traditionally wear in China.”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "black",
+     "correct": true,
+     "text": "black"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "green"
+    },
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "red"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blue"
+    }
+   ],
+   "id": "55877",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]It says to cut the “sable” wire.",
+   "text": "[EventName=HOST/AltHost]It says to cut the “sable” wire.",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "red"
+    },
+    {
+     "controllerClass": "green",
+     "correct": true,
+     "text": "green"
+    },
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "yellow"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blue"
+    }
+   ],
+   "id": "55905",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]It says, “Cut the wire that’s the same color as the time stone in [i]Avengers: Infinity War[/i].”",
+   "text": "[EventName=HOST/AltHost]It says, “Cut the wire that’s the same color as the time stone in [i]Avengers: Infinity War[/i].”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "red"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "green"
+    },
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "yellow"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": true,
+     "text": "blue"
+    }
+   ],
+   "id": "55908",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]It says, “Cut the wire that Pablo Picasso would have cut between 1901 and 1904.”",
+   "text": "[EventName=HOST/AltHost]It says, “Cut the wire that Pablo Picasso would have cut between 1901 and 1904.”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "red"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "green"
+    },
+    {
+     "controllerClass": "yellow",
+     "correct": true,
+     "text": "yellow"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blue"
+    }
+   ],
+   "id": "55910",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]It just says, “Cut the wire that’s the same color as the hat of the man who looks after Curious George.”",
+   "text": "[EventName=HOST/AltHost]It just says, “Cut the wire that’s the same color as the hat of the man who looks after Curious George.”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "yellow"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "green"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": true,
+     "text": "blue"
+    },
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "red"
+    }
+   ],
+   "id": "55972",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]It says, “Cut the wire that is the same color as Park Place on a standard Monopoly board.”",
+   "text": "[EventName=HOST/AltHost]It says, “Cut the wire that is the same color as Park Place on a standard Monopoly board.”",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": true,
+     "text": "red"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "green"
+    },
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "yellow"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blue"
+    }
+   ],
+   "id": "55990",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]It says, “Cut the wire that’s the same color as Morgan Freeman’s name in [i]The Shawshank Redemption[/i].” You know, I’ve never seen that movie. Hope it means something to you.",
+   "text": "[EventName=HOST/AltHost]It says, “Cut the wire that’s the same color as Morgan Freeman’s name in the [i]Shawshank Redemption[/i].”",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "green"
+    },
+    {
+     "controllerClass": "red",
+     "correct": true,
+     "text": "red"
+    },
+    {
+     "controllerClass": "black",
+     "correct": false,
+     "text": "black"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blue"
+    }
+   ],
+   "id": "56021",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]It says, “Cut the wire that’s in the same place in order as [i]The Chamber of Secrets[/i] in the Harry Potter series.” I never read those books so I am no help on this one.",
+   "text": "[EventName=HOST/AltHost]It says, “Cut the wire that’s in the same place in order as [i]The Chamber of Secrets[/i] in the Harry Potter series.”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": true,
+     "text": "red"
+    },
+    {
+     "controllerClass": "black",
+     "correct": false,
+     "text": "black"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "green"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blue"
+    }
+   ],
+   "id": "57030",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]It says, “Cut the preantepenultimate wire.”",
+   "text": "[EventName=HOST/AltHost]It says, “Cut the preantepenultimate wire.”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "white",
+     "correct": false,
+     "text": "white"
+    },
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "red"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": true,
+     "text": "blue"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "green"
+    }
+   ],
+   "id": "57031",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]It says, “Cut the tertiary wire.”",
+   "text": "[EventName=HOST/AltHost]It says, “Cut the tertiary wire.”",
+   "us": false,
+   "x": false
+  }
+ ]
+}

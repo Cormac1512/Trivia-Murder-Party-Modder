@@ -1,0 +1,31 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Yes. Donate $50. It’s the right thing to do."
+    },
+    {
+     "correct": false,
+     "text": "No."
+    },
+    {
+     "correct": false,
+     "text": "No way."
+    },
+    {
+     "correct": false,
+     "text": "Let me think. Hmm.... no."
+    }
+   ],
+   "id": "55866",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Do you give $50 of your game winnings to the “exorcism” fund?",
+   "text": "[EventName=HOST/AltHost]Do you give $50 of your game winnings to the “exorcism” fund?",
+   "us": false,
+   "x": false
+  }
+ ]
+}

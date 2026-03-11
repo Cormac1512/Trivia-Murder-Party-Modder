@@ -1,0 +1,409 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Arnold Schwarzenegger"
+    },
+    {
+     "correct": false,
+     "text": "Bruce Willis"
+    },
+    {
+     "correct": true,
+     "text": "Harrison Ford"
+    },
+    {
+     "correct": false,
+     "text": "Chevy Chase"
+    }
+   ],
+   "id": "55722",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Who played Indiana Jones?",
+   "text": "[EventName=HOST/AltHost]Who played Indiana Jones?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Oxygen"
+    },
+    {
+     "correct": false,
+     "text": "Hydrogen"
+    },
+    {
+     "correct": true,
+     "text": "Iron"
+    },
+    {
+     "correct": false,
+     "text": "Helium"
+    }
+   ],
+   "id": "55723",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Which of these is a metal?",
+   "text": "[EventName=HOST/AltHost]Which of these is a metal?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Canada"
+    },
+    {
+     "correct": false,
+     "text": "Iraq"
+    },
+    {
+     "correct": true,
+     "text": "France"
+    },
+    {
+     "correct": false,
+     "text": "Brazil"
+    }
+   ],
+   "id": "55724",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Which country is in Europe?",
+   "text": "[EventName=HOST/AltHost]Which country is in Europe?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "8 inches"
+    },
+    {
+     "correct": false,
+     "text": "10 inches"
+    },
+    {
+     "correct": true,
+     "text": "12 inches"
+    },
+    {
+     "correct": false,
+     "text": "24 inches"
+    }
+   ],
+   "id": "55725",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]What is a foot equal to?",
+   "text": "[EventName=HOST/AltHost]What is a foot equal to?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sting"
+    },
+    {
+     "correct": true,
+     "text": "Beyoncé"
+    },
+    {
+     "correct": false,
+     "text": "Prince"
+    },
+    {
+     "correct": false,
+     "text": "Eminem"
+    }
+   ],
+   "id": "55726",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Who sang “Single Ladies”?",
+   "text": "[EventName=HOST/AltHost]Who sang “Single Ladies”?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "July 4th"
+    },
+    {
+     "correct": false,
+     "text": "March 15th"
+    },
+    {
+     "correct": true,
+     "text": "Oct 31st"
+    },
+    {
+     "correct": false,
+     "text": "Nov 1st"
+    }
+   ],
+   "id": "55729",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]What date is Halloween on?",
+   "text": "[EventName=HOST/AltHost]What date is Halloween on?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "the fork"
+    },
+    {
+     "correct": true,
+     "text": "the spoon"
+    },
+    {
+     "correct": false,
+     "text": "the knife"
+    },
+    {
+     "correct": false,
+     "text": "the bowl"
+    }
+   ],
+   "id": "55743",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Who did the dish run away with in the nursery rhyme “Hey, Diddle Diddle”?",
+   "text": "[EventName=HOST/AltHost]Who did the dish run away with in the nursery rhyme “Hey, Diddle Diddle”?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "4"
+    },
+    {
+     "correct": false,
+     "text": "3"
+    },
+    {
+     "correct": false,
+     "text": "2"
+    },
+    {
+     "correct": true,
+     "text": "1"
+    }
+   ],
+   "id": "55822",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]What is the square root of 1?",
+   "text": "[EventName=HOST/AltHost]What is the square root of 1?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Moon"
+    },
+    {
+     "correct": false,
+     "text": "Mars"
+    },
+    {
+     "correct": false,
+     "text": "Sun"
+    },
+    {
+     "correct": false,
+     "text": "Milky Way"
+    }
+   ],
+   "id": "55823",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]What celestial body revolves around the Earth?",
+   "text": "[EventName=HOST/AltHost]What celestial body revolves around the Earth?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "lion"
+    },
+    {
+     "correct": false,
+     "text": "deer"
+    },
+    {
+     "correct": false,
+     "text": "giraffe"
+    },
+    {
+     "correct": false,
+     "text": "sheep"
+    }
+   ],
+   "id": "55824",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Which of these animals eats other animals?",
+   "text": "[EventName=HOST/AltHost]Which of these animals eats other animals?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "killer walrus"
+    },
+    {
+     "correct": true,
+     "text": "killer whale"
+    },
+    {
+     "correct": false,
+     "text": "killer dog"
+    },
+    {
+     "correct": false,
+     "text": "killer bee"
+    }
+   ],
+   "id": "55961",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]What kind of animal stars in [i]Free Willy[/i]?",
+   "text": "[EventName=HOST/AltHost]What kind of animal stars in [i]Free Willy[/i]?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "tiger"
+    },
+    {
+     "correct": true,
+     "text": "giraffe"
+    },
+    {
+     "correct": false,
+     "text": "penguin"
+    },
+    {
+     "correct": false,
+     "text": "box turtle"
+    }
+   ],
+   "id": "55993",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Which of these animals has the longest neck?",
+   "text": "[EventName=HOST/AltHost]Which of these animals has the longest neck?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "a dog"
+    },
+    {
+     "correct": false,
+     "text": "a cat"
+    },
+    {
+     "correct": false,
+     "text": "a snake"
+    },
+    {
+     "correct": true,
+     "text": "a horse"
+    }
+   ],
+   "id": "55998",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Who won the Kentucky Derby in 2007?",
+   "text": "[EventName=HOST/AltHost]Who won the Kentucky Derby in 2007?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "the Moon"
+    },
+    {
+     "correct": true,
+     "text": "the Sun"
+    },
+    {
+     "correct": false,
+     "text": "the Earth"
+    },
+    {
+     "correct": false,
+     "text": "Pluto"
+    }
+   ],
+   "id": "56006",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Which of these is a dwarf star?",
+   "text": "[EventName=HOST/AltHost]Which of these is a dwarf star?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Luke Skywalker"
+    },
+    {
+     "correct": true,
+     "text": "C-3PO"
+    },
+    {
+     "correct": false,
+     "text": "Han Solo"
+    },
+    {
+     "correct": false,
+     "text": "Princess Leia"
+    }
+   ],
+   "id": "56007",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Which of these characters is a robot?",
+   "text": "[EventName=HOST/AltHost]Which of these characters is a robot?",
+   "us": false,
+   "x": false
+  }
+ ]
+}
